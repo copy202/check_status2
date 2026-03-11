@@ -12,7 +12,7 @@ assignees:
   - copy202
 
 status-website:
-  baseUrl: /status
+  baseUrl: /check_status2
   name: Example Status
 
 # Upptime also supports notifications, assigning issues, and more
